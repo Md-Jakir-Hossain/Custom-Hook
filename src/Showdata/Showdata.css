@@ -1,0 +1,10 @@
+.card {
+  background: aliceblue;
+  padding: 10px;
+  border-radius: 10px;
+}
+h3 {
+  background: rgb(162, 244, 139);
+  padding: 10px;
+  border-radius: 10px;
+}
